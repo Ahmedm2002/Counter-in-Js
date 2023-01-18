@@ -32,11 +32,11 @@ input{
 	background-color: limegreen;
 }
 #box{
-	width:45%;
+	width:80%;
 	height: inherit;
 	border:1px solid red;
 	margin:10px auto ;
-	background-color: #7f00ff;
+	background-color: #D697FF;
 	color: #ADD8E6;
 
 }
